@@ -15,6 +15,8 @@
 
 ###### 最后整理时间：2017-10-22
 
+[GitBook-《VUEX源码学习笔记》](https://dulinrain.gitbooks.io/vuex/content/)
+
 [个人博客](http://dulinrain.top "个人博客")
 
 
